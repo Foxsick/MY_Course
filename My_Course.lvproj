@@ -11,12 +11,12 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
+		<Item Name="Queue 2 elements.ctl" Type="VI" URL="../Queue 2 elements.ctl"/>
 		<Item Name="Queue elements.ctl" Type="VI" URL="../Queue elements.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="RGB to Color.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/RGB to Color.vi"/>
 			</Item>
-			<Item Name="Queue elements.ctl" Type="VI" URL="/C/Users/foxsi/OneDrive/Рабочий стол/LessonIVI/Queue elements.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
