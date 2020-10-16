@@ -10,9 +10,13 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Controls" Type="Folder"/>
+		<Item Name="Queues" Type="Folder">
+			<Item Name="Queue 2 elements.ctl" Type="VI" URL="../Queue 2 elements.ctl"/>
+			<Item Name="Queue elements.ctl" Type="VI" URL="../Queue elements.ctl"/>
+		</Item>
+		<Item Name="Calculation chance.vi" Type="VI" URL="../Calculation chance.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
-		<Item Name="Queue 2 elements.ctl" Type="VI" URL="../Queue 2 elements.ctl"/>
-		<Item Name="Queue elements.ctl" Type="VI" URL="../Queue elements.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="RGB to Color.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/RGB to Color.vi"/>
