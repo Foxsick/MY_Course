@@ -15,7 +15,6 @@
 			<Item Name="top bar.ctl" Type="VI" URL="../top bar.ctl"/>
 		</Item>
 		<Item Name="Queues" Type="Folder">
-			<Item Name="Queue 2 elements.ctl" Type="VI" URL="../Queue 2 elements.ctl"/>
 			<Item Name="Queue elements.ctl" Type="VI" URL="../Queue elements.ctl"/>
 		</Item>
 		<Item Name="Calculation chance.vi" Type="VI" URL="../Calculation chance.vi"/>
