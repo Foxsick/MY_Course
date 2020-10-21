@@ -53,8 +53,9 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8009BA7C-4E64-4DDE-9F3B-E54DFDA991C3}</Property>
-				<Property Name="Bld_version.build" Type="Int">13</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">MY_Course.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../Build/NI_AB_PROJECTNAME.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
@@ -65,17 +66,17 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/unicorn.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{928713A9-D39C-4E57-880A-AD35B939F64A}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{5F95722D-F001-4175-91E4-FD49A2B7DFFC}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/main.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">Berezin AI 2020y</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Simulate robot and 2 machins</Property>
 				<Property Name="TgtF_internalName" Type="Str">MY_Course</Property>
-				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2020 </Property>
-				<Property Name="TgtF_productName" Type="Str">MY_Course</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Berezin Copyright © 2020 </Property>
+				<Property Name="TgtF_productName" Type="Str">Berezin course project 2020 year</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{FDDDC554-133B-42A9-85C9-DD12F7F0F71A}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">MY_Course.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
