@@ -21,6 +21,7 @@
 		<Item Name="SubVI" Type="Folder">
 			<Item Name="Calculation chance.vi" Type="VI" URL="../Calculation chance.vi"/>
 			<Item Name="Delay.vi" Type="VI" URL="../Delay.vi"/>
+			<Item Name="estimated time.vi" Type="VI" URL="../estimated time.vi"/>
 			<Item Name="Global 1.vi" Type="VI" URL="../Global 1.vi"/>
 			<Item Name="Use memory.vi" Type="VI" URL="../Use memory.vi"/>
 		</Item>
@@ -51,7 +52,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8009BA7C-4E64-4DDE-9F3B-E54DFDA991C3}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">MY_Course.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../Build/NI_AB_PROJECTNAME.exe</Property>
