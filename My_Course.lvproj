@@ -11,22 +11,22 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Controls" Type="Folder">
-			<Item Name="close buttom.ctl" Type="VI" URL="../close buttom.ctl"/>
-			<Item Name="top bar.ctl" Type="VI" URL="../top bar.ctl"/>
+			<Item Name="close buttom.ctl" Type="VI" URL="../Data/Var/close buttom.ctl"/>
+			<Item Name="top bar.ctl" Type="VI" URL="../Data/Var/top bar.ctl"/>
 		</Item>
 		<Item Name="Queues" Type="Folder">
-			<Item Name="Queue elements 2.ctl" Type="VI" URL="../Queue elements 2.ctl"/>
-			<Item Name="Queue elements.ctl" Type="VI" URL="../Queue elements.ctl"/>
+			<Item Name="Queue elements 2.ctl" Type="VI" URL="../Data/Var/Queue elements 2.ctl"/>
+			<Item Name="Queue elements.ctl" Type="VI" URL="../Data/Var/Queue elements.ctl"/>
 		</Item>
 		<Item Name="SubVI" Type="Folder">
-			<Item Name="Calculation chance.vi" Type="VI" URL="../Calculation chance.vi"/>
-			<Item Name="Delay.vi" Type="VI" URL="../Delay.vi"/>
-			<Item Name="estimated time.vi" Type="VI" URL="../estimated time.vi"/>
-			<Item Name="Global 1.vi" Type="VI" URL="../Global 1.vi"/>
-			<Item Name="Use memory.vi" Type="VI" URL="../Use memory.vi"/>
+			<Item Name="Calculation chance.vi" Type="VI" URL="../Data/Calculation chance.vi"/>
+			<Item Name="Delay.vi" Type="VI" URL="../Data/Delay.vi"/>
+			<Item Name="estimated time.vi" Type="VI" URL="../Data/estimated time.vi"/>
+			<Item Name="Global 1.vi" Type="VI" URL="../Data/Var/Global 1.vi"/>
+			<Item Name="Use memory.vi" Type="VI" URL="../Data/Use memory.vi"/>
 		</Item>
-		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
-		<Item Name="unicorn.ico" Type="Document" URL="../unicorn.ico"/>
+		<Item Name="main.vi" Type="VI" URL="../Data/main.vi"/>
+		<Item Name="unicorn.ico" Type="Document" URL="../Data/unicorn.ico"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="RGB to Color.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/RGB to Color.vi"/>
@@ -52,7 +52,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8009BA7C-4E64-4DDE-9F3B-E54DFDA991C3}</Property>
-				<Property Name="Bld_version.build" Type="Int">7</Property>
+				<Property Name="Bld_version.build" Type="Int">8</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">MY_Course.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../Build/NI_AB_PROJECTNAME.exe</Property>
@@ -64,7 +64,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/unicorn.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{81A810C5-1B78-4210-932A-C1A8E49E98EA}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{928713A9-D39C-4E57-880A-AD35B939F64A}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/main.vi</Property>
