@@ -23,6 +23,7 @@
 			<Item Name="Delay.vi" Type="VI" URL="../Data/Delay.vi"/>
 			<Item Name="estimated time.vi" Type="VI" URL="../Data/estimated time.vi"/>
 			<Item Name="Global 1.vi" Type="VI" URL="../Data/Var/Global 1.vi"/>
+			<Item Name="To work on 1.vi" Type="VI" URL="../Data/To work on 1.vi"/>
 			<Item Name="Use memory.vi" Type="VI" URL="../Data/Use memory.vi"/>
 		</Item>
 		<Item Name="main.vi" Type="VI" URL="../Data/main.vi"/>
@@ -52,7 +53,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8009BA7C-4E64-4DDE-9F3B-E54DFDA991C3}</Property>
-				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.build" Type="Int">9</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">MY_Course.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../Build/NI_AB_PROJECTNAME.exe</Property>
