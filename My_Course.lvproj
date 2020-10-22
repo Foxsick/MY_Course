@@ -22,6 +22,8 @@
 			<Item Name="Calculation chance.vi" Type="VI" URL="../Data/Calculation chance.vi"/>
 			<Item Name="Delay.vi" Type="VI" URL="../Data/Delay.vi"/>
 			<Item Name="estimated time.vi" Type="VI" URL="../Data/estimated time.vi"/>
+			<Item Name="Flat seque for 1st or 2nd machin.vi" Type="VI" URL="../Data/Flat seque for 1st or 2nd machin.vi"/>
+			<Item Name="Flat seque for 2nd machin.vi" Type="VI" URL="../Data/Flat seque for 2nd machin.vi"/>
 			<Item Name="Global 1.vi" Type="VI" URL="../Data/Var/Global 1.vi"/>
 			<Item Name="To work on 1.vi" Type="VI" URL="../Data/To work on 1.vi"/>
 			<Item Name="Use memory.vi" Type="VI" URL="../Data/Use memory.vi"/>
@@ -53,7 +55,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8009BA7C-4E64-4DDE-9F3B-E54DFDA991C3}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">MY_Course.exe</Property>
