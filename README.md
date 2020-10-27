@@ -1,7 +1,9 @@
 ## Course_Project
 
 :building_construction: :wrench:
+
 ___Simulation project on a setup of 1 robot and 2 machines (bold italic)___
+
 ##--Stage--	 
 
 :white_check_mark: Create rep   
