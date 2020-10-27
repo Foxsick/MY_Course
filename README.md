@@ -4,7 +4,7 @@
 
 ___Simulation project on a setup of 1 robot and 2 machines (bold italic)___
 
-##--Stage--	 
+## --Stage--	 
 
 :white_check_mark: Create rep   
 
