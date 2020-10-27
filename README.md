@@ -2,7 +2,7 @@
 
 :building_construction: :wrench:
 
-___Simulation project on a setup of 1 robot and 2 machines ___
+___Simulation project on a setup of 1 robot and 2 machines___
 
 ## --Stage--	 
 
