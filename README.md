@@ -20,4 +20,6 @@ ___Simulation project on a setup of 1 robot and 2 machines___
 
 :white_check_mark: Relise
 
+Berezin AI, Moscow 2020
+
 
