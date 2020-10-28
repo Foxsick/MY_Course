@@ -29,6 +29,7 @@
 			<Item Name="Use memory.vi" Type="VI" URL="../Data/Use memory.vi"/>
 		</Item>
 		<Item Name="main.vi" Type="VI" URL="../Data/main.vi"/>
+		<Item Name="Objects frame.ctl" Type="VI" URL="../Data/Var/Objects frame.ctl"/>
 		<Item Name="unicorn.ico" Type="Document" URL="../Data/unicorn.ico"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
