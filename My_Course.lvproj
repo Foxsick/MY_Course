@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Controls" Type="Folder">
 			<Item Name="close buttom.ctl" Type="VI" URL="../Data/Var/close buttom.ctl"/>
+			<Item Name="Objects frame.ctl" Type="VI" URL="../Data/Var/Objects frame.ctl"/>
 			<Item Name="top bar.ctl" Type="VI" URL="../Data/Var/top bar.ctl"/>
 		</Item>
 		<Item Name="Queues" Type="Folder">
@@ -29,7 +30,7 @@
 			<Item Name="Use memory.vi" Type="VI" URL="../Data/Use memory.vi"/>
 		</Item>
 		<Item Name="main.vi" Type="VI" URL="../Data/main.vi"/>
-		<Item Name="Objects frame.ctl" Type="VI" URL="../Data/Var/Objects frame.ctl"/>
+		<Item Name="unicorn.ico" Type="Document" URL="../unicorn.ico"/>
 		<Item Name="unicorn.ico" Type="Document" URL="../Data/unicorn.ico"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -56,7 +57,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8009BA7C-4E64-4DDE-9F3B-E54DFDA991C3}</Property>
-				<Property Name="Bld_version.build" Type="Int">9</Property>
+				<Property Name="Bld_version.build" Type="Int">14</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">MY_Course.exe</Property>
@@ -68,8 +69,8 @@
 				<Property Name="Destination[1].path" Type="Path">../Build/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/unicorn.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{5F95722D-F001-4175-91E4-FD49A2B7DFFC}</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Item[@Label='unicorn.ico' and @Type='Document']</Property>
+				<Property Name="Source[0].itemID" Type="Str">{B8EEFA6B-788B-4343-8239-B215A5C4DA06}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/main.vi</Property>
