@@ -30,7 +30,6 @@
 			<Item Name="Use memory.vi" Type="VI" URL="../Data/Use memory.vi"/>
 		</Item>
 		<Item Name="main.vi" Type="VI" URL="../Data/main.vi"/>
-		<Item Name="unicorn.ico" Type="Document" URL="../unicorn.ico"/>
 		<Item Name="unicorn.ico" Type="Document" URL="../Data/unicorn.ico"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -69,7 +68,7 @@
 				<Property Name="Destination[1].path" Type="Path">../Build/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Item[@Label='unicorn.ico' and @Type='Document']</Property>
+				<Property Name="Exe_iconItemID" Type="Ref"></Property>
 				<Property Name="Source[0].itemID" Type="Str">{B8EEFA6B-788B-4343-8239-B215A5C4DA06}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
